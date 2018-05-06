@@ -7,6 +7,7 @@ Data and metadata required to run the reference implementation (implement.zip) a
 To use the code, download and unpack the reference implementation (implement.zip) somewhere visible to the MATLAB search path. Next, DOWNLOAD DATA from ftp://caftpd.nci.nih.gov/pub/OCG-DCC/CTD2/Broad/.
 
 Put the following files in a 'data' subfolder: v20.data.per_cpd_pre_qc.txt, v21.data.auc_sensitivities.txt, v21.data.gex_avg_log2.txt, v22.anno.ccl_anno_features.txt, v22.anno.ccl_mut_features.txt, v22.data.auc_sensitivities.txt.
+
 Put the following files in a 'meta' subfolder: v20.meta.per_cell_line.txt, v20.meta.per_compound.txt, v20.meta.per_experiment.txt, v21.meta.gex_features.txt, v21.meta.per_compound.txt, v22.meta.per_compound.txt.
 
 The reference implementation (implement.zip) covers three procedures in detail:
