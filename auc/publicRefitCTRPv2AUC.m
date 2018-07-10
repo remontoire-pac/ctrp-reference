@@ -3,6 +3,12 @@
 % Paul A. Clemons, Ph.D.
 % Broad Institute
 %
+% DOWNLOAD DATA FIRST ftp://caftpd.nci.nih.gov/pub/OCG-DCC/CTD2/Broad/
+%   put the following files in a 'data' subfolder
+%       v20.data.per_cpd_pre_qc.txt
+%   put the following files in a 'meta' subfolder
+%       v20.meta.per_experiment.txt
+%
 % Workflow:
 %   - start with public data from NCI CTD^2 Data Portal
 %   - reconcile any re-mapping between experiment identifiers and cell lines

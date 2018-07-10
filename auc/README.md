@@ -4,6 +4,12 @@ Updated implementation of CTRPv2 area-under-curve (AUC) calculations
 
 Paul A. Clemons, Ph.D. (Broad Institute); last modified 2018-07-10
 
+Data and metadata required to run are available for free public download from the National Cancer Institute (NCI) Office of Cancer Genomics (OCG), and were originally produced as part of work supported by the Cancer Target Discovery and Development (CTD^2) Network of research centers. DOWNLOAD DATA from ftp://caftpd.nci.nih.gov/pub/OCG-DCC/CTD2/Broad/.
+
+Put the following file in a 'data' subfolder: v20.data.per_cpd_pre_qc.txt.
+
+Put the following file in a 'meta' subfolder: v20.meta.per_experiment.txt.
+
 Workflow:
 
    - start with public data from NCI CTD^2 Data Portal
