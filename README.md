@@ -1,6 +1,10 @@
 # ctrp-reference
 
+--------------------------------
+
 This main README page pertains to the (static) reference implementation in implement.zip, described in a book chapter: https://link.springer.com/protocol/10.1007/978-1-4939-8891-4_14. Subfolders in this space correspond to subsequent self-contained work products, as described in README files within those subfolders.
+
+--------------------------------
 
 MATLAB reference implementation of foundational data-analysis procedures underlying results in the Cancer Therapeutics Response Portal (CTRP; https://portals.broadinstitute.org/ctrp/), which presents analysis results stemming from small-molecule sensitivity profiling of cancer cell lines. 
 
